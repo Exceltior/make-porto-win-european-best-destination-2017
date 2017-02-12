@@ -30,7 +30,7 @@ docker run hfreire/make-porto-win-european-best-destination-2017
 ```
 #### Available environment variables
 Variable | Description | Default value
- --- |:---:|:---:
+ :---:|:---:|:---:
 `PROXY` | Proxy hostname and port that will be used to tunnel the votes | `not used`
 `VOTE_PERIOD` | Time period between each vote | 5 seconds
 `OPEN_PAGE_TIMEOUT` | Timeout to open poll website | 120 seconds
